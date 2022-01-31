@@ -28,13 +28,13 @@ Customer table             |  Loading into pgAdmin 4
 
 Product table             |  Loading into pgAdmin 4
 :-------------------------:|:-------------------------:
-![image](images/d1_products.png) | ![image](d1_products_load.png)
+![image](images/d1_products.png) | ![image](images/d1_products_load.png)
 
 ---
 
 Reviews table             |  Loading into pgAdmin 4
 :-------------------------:|:-------------------------:
-![image](images/d1_review.png) | ![image](d1_review_id_load.png)
+![image](images/d1_review.png) | ![image](images/d1_review_id_load.png)
 
 ---
 
